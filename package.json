@@ -10,13 +10,13 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:php-unserialize.helloWorld"
+    "onCommand:php-unserialize.unserialize"
   ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "php-unserialize.helloWorld",
+        "command": "php-unserialize.unserialize",
         "title": "PHP Unserialize"
       }
     ]
