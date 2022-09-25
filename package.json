@@ -17,7 +17,7 @@
     "commands": [
       {
         "command": "php-unserialize.helloWorld",
-        "title": "Hello World"
+        "title": "PHP Unserialize"
       }
     ]
   },
