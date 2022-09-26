@@ -4,7 +4,10 @@ This extension provides `PHP Unserialize` command to unserialize serialized data
 
 As developer I used to use online tool or run PHP code to unserialize data. So I thought that developing VSCode extension would be helpful.
 
-**Note:** This extension is not released on VSCode Marketplace.
+**Important Notes:**
+
+- This extension is not released on VSCode Marketplace.
+- `php` command need to available in PATH.
 
 ## Installation
 
@@ -16,3 +19,5 @@ As developer I used to use online tool or run PHP code to unserialize data. So I
 
 - Add serialized data in editor and select it.
 - Open [Command Palette](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette) and type `PHP Unserialize` and execute command.
+
+![](https://chandra.dev/wp-content/uploads/2022/09/php-unserialize-extension.gif)
